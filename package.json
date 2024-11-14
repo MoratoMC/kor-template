@@ -1,6 +1,7 @@
 {
 	"name": "kor-template",
 	"private": true,
+	"type": "module",
 	"version": "0.0.0",
 	"description": "使用 React + TS 构建的基础项目模版",
 	"license": "MIT",
